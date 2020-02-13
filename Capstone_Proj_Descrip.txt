@@ -1,0 +1,11 @@
+Business Problem: 
+A group of investors would like to start a food business in Chicago, IL. The investors are slightly agnostic to the location of the new business, but they have pre-selected 10 general locations. They would prefer for the business to be within a 0.5 mile radios of one of these locations.
+
+The goal of this report is to provide market research on all of the existing food businesses surrounding the 10 locations provided. The foursquare api will be used to collect information of all food businesses in the selected areas and present information regarding market saturation and popularity. 
+
+Using this information, the investors will be able to make a more educated decision on which type of food business to start and in what location. 
+
+Data:
+Using the Foursquare API “Explore” endpoint, general food business data will be collected for the 10 general locations selected by the investors. Specific location data for each business and business category information will be retained. After all individual business have been identified, the Foursquare “Like” endpoint will be used to pull specific like data for each business.  
+
+After data collection has been successfully completed. All captured data will be analyzed resulting in metrics on a per location and per business basis. In addition to numerical analysis, charts and graphs will be created and presented as additional aids. 
