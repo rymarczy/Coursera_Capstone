@@ -9,3 +9,15 @@ Data:
 Using the Foursquare API “Explore” endpoint, general food business data will be collected for the 10 general locations selected by the investors. Specific location data for each business and business category information will be retained. After all individual business have been identified, the Foursquare “Like” endpoint will be used to pull specific like data for each business.  
 
 After data collection has been successfully completed. All captured data will be analyzed resulting in metrics on a per location and per business basis. In addition to numerical analysis, charts and graphs will be created and presented as additional aids. 
+
+1. Boystown
+2. Lake View
+3. Logan Square
+4. Wicker Park
+5. Lincoln Park
+6. West Town
+7. Uptown
+8. Near North Side
+9. River West
+10. Bucktown
+
